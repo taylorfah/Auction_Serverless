@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efdcfd4c-3a68-4b7b-b998-0c27ccccf5c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i3pMbRLxfaNugK6oKShlFOoX1D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efdcfd4c-3a68-4b7b-b998-0c27ccccf5c9" name="Default Changelist" comment="" />
+      <created>1601146083007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601146083007</updated>
+      <workItem from="1601146084306" duration="21141000" />
+      <workItem from="1602446270011" duration="6006000" />
+      <workItem from="1602472298649" duration="301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601567503248">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="0" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1601567503248" />
+    <state x="178" y="286" width="598" height="490" key="find.popup" timestamp="1602454187735">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="178" y="286" width="598" height="490" key="find.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1602454187735" />
+    <state x="431" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1602447209046">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="431" y="248" width="670" height="676" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1602447209046" />
+  </component>
+</project>
